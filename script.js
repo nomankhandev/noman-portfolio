@@ -157,8 +157,8 @@ $(document).ready(function () {
       category: 'frontend',
       description: 'A multi-page portfolio template for developers with dark/light mode toggle.',
       tech: ['HTML', 'CSS', 'JS', 'Bootstrap'],
-      githubUrl: 'https://github.com/nomankhandev/portfoliotm',
-      liveUrl: 'https://nomankhandev.github.io/portfoliotm/',
+      githubUrl: 'https://github.com/nomankhandev/noman-portfolio',
+      liveUrl: 'https://nomankhandev.github.io/noman-portfolio/',
       image: null
     },
     {
