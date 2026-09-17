@@ -169,6 +169,15 @@ $(document).ready(function () {
       githubUrl: 'https://github.com/nomankhandev/wilson-',
       liveUrl: 'https://nomankhandev.github.io/wilson-/',
       image: null
+    },
+        {
+      title: 'M&ZCollection',
+      category: 'fullstack',
+      description: 'A complete ladies suits e-commerce website with product browsing, shopping features, and an admin panel for managing products and orders.',
+      tech: ['PHP', 'MySQL', 'HTML', 'CSS', 'JavaScript', 'Bootstrap'],
+      githubUrl: '',
+      liveUrl: 'https://mzcollections.com/',
+      image: null
     }
   ];
 
